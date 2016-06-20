@@ -5,8 +5,7 @@
   <meta-data
             android:name="io.fabric.ApiKey"
             android:value="YOUR_API_KEY"/>
-		(Sign up Account and follow the instructions to get YOUR_API_KEY)
-```		
+```		(Sign up Account and follow the instructions to get YOUR_API_KEY)
 		
 		
  * Adding Gradle dependency:
