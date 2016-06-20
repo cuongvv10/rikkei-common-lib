@@ -1,4 +1,4 @@
-## This module can be added to Android Studio by:
+## Configurations:
 
 * Adding the following code to AndroidManifest.xml file under </application> tag:
 ```gradle
