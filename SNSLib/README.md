@@ -1,4 +1,4 @@
-## Configurations:
+## 1.Configurations:
 
 * Adding the following code to AndroidManifest.xml file under </application> tag:
 ```gradle
@@ -36,7 +36,7 @@ dependencies {
 }
 ```
 
-## How to use
+## 2.How to use
 
 * Put statement: 
       RkTwitterUtils.init(Context context, String consumerKey , String consumerSecret)
